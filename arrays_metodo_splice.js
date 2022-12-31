@@ -28,3 +28,6 @@ console.log("Listado productos", productos2)
 
 
 
+//MODIFICAR EL LARGO / CANTIDAD DE ELEMENTOS DE UN ARRAY
+productos2.length = 2;
+console.log(productos2);
